@@ -1,11 +1,11 @@
-# Yummy-Rabbit App
+# Eric Wang's SSRS Demo
 ## Description
 This repository is the demo of a SSRS project based on my previous experience.
   
 This demo shows that, when our customers have already got some standards(e.g. KPI codes),
 how to store and make use of the data more efficiently when developing reports.
 
-We fetch and store the data from our customers' transactional databases to our data warehouse, through ETL and mapping processs. 
+We fetch and store the data from our customers' transactional databases to our data warehouse, through ETL and mapping processes. 
 
 Then we need to create several templates to visualize our reports. In this repository, I created the templates of balance sheet and P&L statement.
 
